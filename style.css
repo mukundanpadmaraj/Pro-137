@@ -1,0 +1,36 @@
+.copyright_footer{
+    width:100%;
+    position : fixed ;
+    bottom: 0px;
+    background-color: white;
+    color: blue;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    padding: 5px;
+    text-shadow: 3px 3px 5px black;
+}
+body{
+    background-color: midnightblue;
+}
+canvas{
+    box-shadow: 2px 2px 20px grey;
+    border: ridge;
+}
+#object_input{
+    width: 500px;
+}
+.heading{
+    width: 100%;
+    font-size: xx-large;
+    margin: 0px;
+    font-weight: bolder;
+    text-shadow: 10px 10px 10px black;
+}
+#start, #status, #object_found{
+    font-size: x-large;
+}
+#object_input{
+    font-size: larger;
+}
